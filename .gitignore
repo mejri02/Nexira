@@ -1,0 +1,4 @@
+token.txt
+proxies.txt
+__pycache__/
+.env
