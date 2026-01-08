@@ -38,8 +38,8 @@ on the **Nexira** platform.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/mejri02/nexira-bot.git
-cd nexira-bot
+git clone https://github.com/mejri02/Nexira.git
+cd Nexira
 ```
 
 ### 2️⃣ Install Requirements
